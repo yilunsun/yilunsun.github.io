@@ -1,18 +1,15 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Spratt":
+  - firstname: ["Daniel", "Daniel E.", "Daniel E","D. E.", "D."]
+    url: https://case.edu/cancer/members/member-directory/daniel-spratt
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Kishan":
+  - firstname: ["Amar", "A.", "A. U.", "Amar U."]
+    url: https://www.uclahealth.org/radonc/amar-kishan
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Schipper":
+  - firstname: ["Matthew", "Matthew J", "Matthew J.", "M.", "M. J."]
+    url: https://sph.umich.edu/faculty-profiles/schipper-matthew.html
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Dess": 
+  - firstname: ["Robert", "Robert T.", "Robert T", "R. T."]
+    url: https://medicine.umich.edu/dept/radonc/robert-dess-md
